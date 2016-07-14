@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 lne33333ine 2
+=======
+public static void main(String[] args)
+{
+	system.out.println("Java Hello World");
+	system.out.println("How are you doing Val");
+}
+>>>>>>> 6a0bac0d865f1ae99c4663cc3acee7aac5b6aa07
